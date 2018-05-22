@@ -1,0 +1,75 @@
+{
+  "category" : {
+    "cat01" : "Burger",
+    "cat02" : "Drinks"
+  },
+  "featured" : {
+    "item1" : "slide_1",
+    "item2" : "slide_2"
+  },
+  "menu" : {
+    "item1" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item1 description",
+      "image" : "acservices",
+      "name" : "acservice",
+      "price" : 149,
+      "stock" : 100
+    },
+    "item2" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item2 description",
+      "image" : "washingmachine",
+      "name" : "washingmachineservice",
+      "price" : 149,
+      "stock" : 100
+    },
+    "item3" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item3 description",
+      "image" : "plumbing",
+      "name" : "plumbing",
+      "price" : 149,
+      "stock" : 100
+    },
+    "item4" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item4 description",
+      "image" : "Facial",
+      "name" : "beautician",
+      "price" : 149,
+      "stock" : 100
+    },
+    "item5" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item5 description",
+      "image" : "Photography",
+      "name" : "Photography",
+      "price" : 149,
+      "stock" : 100
+    },
+    "item6" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item6 description",
+      "image" : "housekeeping",
+      "name" : "housekeeping",
+      "price" : 149,
+      "stock" : 100
+    },
+    "item8" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item8 description",
+      "image" : "gasstoveservice",
+      "name" : "gasstoveservice",
+      "price" : 149,
+      "stock" : 100
+    }
+  }
+}
